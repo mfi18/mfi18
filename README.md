@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Computer Science at NUST<br>🌱 I’m currently learning Cyber Security, Netwroking and AI<br>⚡ Fun fact: I am really into meeting new people and befriending them<br>💬 I'm developing my skills and am eager to collaborate with professsionals and fellows
+🔭 I’m currently studying Computer Science at NUST<br>🌱 I’m currently learning Cyber Security, Netwroking and AI<br>⚡ Fun fact: I am really into meeting new people and befriending them<br>💬 I'm developing my skills and am eager to collaborate with professionals and fellows
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mfi18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mfi18&icon=0&color=0)](https://visitcount.itsvg.in)
