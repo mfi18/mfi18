@@ -1,3 +1,4 @@
+I'm Muhammad Faizan
 # 💫 About Me:
 🔭 I’m currently studying Computer Science at NUST<br>🌱 I’m currently learning Cyber Security, Netwroking and AI<br>⚡ Fun fact: I am really into meeting new people and befriending them<br>💬 I'm developing my skills and am eager to collaborate with professionals and fellows
 
