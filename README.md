@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mfi18">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Muhammad%20Faizan" alt="Hello! I&#39;m Muhammad Faizan" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=cc0000&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Muhammad%20Faizan" alt="Hello! I&#39;m Muhammad Faizan" />
   </a>
 </p>
 
